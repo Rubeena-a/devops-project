@@ -5,7 +5,7 @@ Main application file for DevOps Project
 
 def main():
     print("Welcome to DevOps Project!")
-    print("Version: 1.0.0")
+    print("Version: 2.0.0-release")
     
 if __name__ == "__main__":
     main()
