@@ -15,9 +15,9 @@ This repository demonstrates enterprise-grade Git practices and DevOps workflows
 ## 🛠️ Prerequisites
 Required Tools
 - Git (version 2.25+ recommended)
-- GitHub Account (or GitLab/Bitbucket)
+- GitHub Account 
 - Gitbash
-- Text Editor (VS Code recommended)
+- VS Code 
 
 ## Knowledge Prerequisites
 - Basic command line familiarity
