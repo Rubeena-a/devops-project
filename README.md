@@ -24,12 +24,16 @@ Required Tools
 - Fundamental Git concepts (commit, push, pull)
 - Markdown syntax understanding
 
+## Project Structure 
+<img width="490" height="305" alt="image" src="https://github.com/user-attachments/assets/af88b788-a425-4fd2-a0cf-9072f6882c4f" />
+
 ## Branching Strategy
 - `main`: Production code
 - `dev`: Integration branch
 - `feature/*`: New features
 - `release/*`: Release preparation
 - `hotfix/*`: Emergency fixes
+<img width="531" height="193" alt="image" src="https://github.com/user-attachments/assets/f6a3b1a8-5abf-4db1-a0cb-370446bc836f" />
 
 ## Commit Convention
 - feat: New feature
@@ -47,6 +51,14 @@ Required Tools
 4. Code review
 5. Merge and delete feature branch
 
+## Automated Deployment
+<img width="441" height="77" alt="image" src="https://github.com/user-attachments/assets/276225d7-1f91-41d5-aece-4fe6191c68a5" />
+
+### Testing
+```
+./scripts/test.sh
+```
+
 ## Best Practices Implemented:
 - Meaningful commit messages with conventional format
 - Feature branch workflow with PR reviews
@@ -55,3 +67,6 @@ Required Tools
 - Comprehensive .gitignore for clean repositories
 - Documentation in markdown format
 - Regular synchronization between branches
+
+## Author 
+Rubeena Shaik
